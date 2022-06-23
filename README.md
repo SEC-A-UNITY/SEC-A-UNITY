@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### We Are SEC A Gang
+### We Are Born For Unity
 <!--
 **SEC-A-UNITY/SEC-A-UNITY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
